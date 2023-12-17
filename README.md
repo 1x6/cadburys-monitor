@@ -10,6 +10,6 @@ Get notified whenever there's stock available for the [Cadburys Secret Santa](ht
 ## Usage
 
 - Deploy to railway or clone the repo
-- Create a new discord webhook and enter it into the `DISCORD_WEBHOOK_URL` variable
+- Create a new discord webhook and enter it into the `DISCORD_WEBHOOK_URL` enviroment variable
 - Start the server/deployment
 - Profit, free chocolate
