@@ -13,3 +13,6 @@ Get notified whenever there's stock available for the [Cadburys Secret Santa](ht
 - Create a new discord webhook and enter it into the `DISCORD_WEBHOOK_URL` enviroment variable
 - Start the server/deployment
 - Profit, free chocolate
+
+## Demo
+![image](https://github.com/1x6/cadburys-monitor/assets/44981148/36eb5fec-c086-4d27-8dbf-19e9788eb126)
