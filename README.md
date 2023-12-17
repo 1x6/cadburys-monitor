@@ -1,7 +1,7 @@
 # Cadburys Secret Santa Monitor
 Get notified whenever there's stock available for the [Cadburys Secret Santa](https://secretsanta.cadbury.co.uk/) UK promo.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/zUcpux)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/9c1T-o?referralCode=tJrkZx)
 
 ## Features
 - Pings you whenever a link has available stock
