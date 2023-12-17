@@ -3,7 +3,7 @@ import os
 import requests
 import time
 
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/..."
+DISCORD_WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL")
 app = Flask(__name__)
 
 @app.route('/')
